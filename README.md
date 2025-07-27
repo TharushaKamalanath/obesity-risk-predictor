@@ -8,7 +8,7 @@ A machine learning-powered web app to predict obesity levels based on lifestyle 
 - **📱 Responsive Design**: Works on desktop and mobile
 - **📈 Explainable AI**: SHAP values for model interpretability
 
-📊 Results
+## 📊 Results
 
 
 
